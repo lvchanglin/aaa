@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "style-loader": "^0.18.2"
+  }
+}
